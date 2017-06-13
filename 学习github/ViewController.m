@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    NSString* string = @"wode";
+    NSString* string = @"wodedfdfdfdfdfddfdfdfdf";
     NSLog(@"%@",string);
     // Do any additional setup after loading the view, typically from a nib.
 }
