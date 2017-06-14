@@ -15,6 +15,7 @@
 		788C8AC21EEFF19E000FE07B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 788C8AC01EEFF19E000FE07B /* LaunchScreen.storyboard */; };
 		788C8ACD1EEFF19E000FE07B /* __githubTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 788C8ACC1EEFF19E000FE07B /* __githubTests.m */; };
 		788C8AD81EEFF19E000FE07B /* __githubUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 788C8AD71EEFF19E000FE07B /* __githubUITests.m */; };
+		7F27501F1EF0F811005DBF76 /* fff.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F27501E1EF0F811005DBF76 /* fff.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		788C8AD31EEFF19E000FE07B /* 学习githubUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "学习githubUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		788C8AD71EEFF19E000FE07B /* __githubUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = __githubUITests.m; sourceTree = "<group>"; };
 		788C8AD91EEFF19E000FE07B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7F27501D1EF0F811005DBF76 /* fff.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = fff.h; sourceTree = "<group>"; };
+		7F27501E1EF0F811005DBF76 /* fff.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = fff.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				788C8AB61EEFF19E000FE07B /* AppDelegate.m */,
 				788C8AB81EEFF19E000FE07B /* ViewController.h */,
 				788C8AB91EEFF19E000FE07B /* ViewController.m */,
+				7F27501D1EF0F811005DBF76 /* fff.h */,
+				7F27501E1EF0F811005DBF76 /* fff.m */,
 				788C8ABB1EEFF19E000FE07B /* Main.storyboard */,
 				788C8ABE1EEFF19E000FE07B /* Assets.xcassets */,
 				788C8AC01EEFF19E000FE07B /* LaunchScreen.storyboard */,
@@ -278,6 +283,7 @@
 			files = (
 				788C8ABA1EEFF19E000FE07B /* ViewController.m in Sources */,
 				788C8AB71EEFF19E000FE07B /* AppDelegate.m in Sources */,
+				7F27501F1EF0F811005DBF76 /* fff.m in Sources */,
 				788C8AB41EEFF19E000FE07B /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -518,6 +524,7 @@
 				788C8ADE1EEFF19E000FE07B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		788C8ADF1EEFF19E000FE07B /* Build configuration list for PBXNativeTarget "学习githubTests" */ = {
 			isa = XCConfigurationList;
@@ -526,6 +533,7 @@
 				788C8AE11EEFF19E000FE07B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		788C8AE21EEFF19E000FE07B /* Build configuration list for PBXNativeTarget "学习githubUITests" */ = {
 			isa = XCConfigurationList;
@@ -534,6 +542,7 @@
 				788C8AE41EEFF19E000FE07B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
