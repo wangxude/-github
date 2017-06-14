@@ -1,14 +1,14 @@
 //
-//  fff.m
+//  zuxiuhaoDeView.m
 //  学习github
 //
 //  Created by kys-6 on 2017/6/14.
 //  Copyright © 2017年 kys-5. All rights reserved.
 //
 
-#import "fff.h"
+#import "zuxiuhaoDeView.h"
 
-@implementation fff
+@implementation zuxiuhaoDeView
 
 /*
 // Only override drawRect: if you perform custom drawing.

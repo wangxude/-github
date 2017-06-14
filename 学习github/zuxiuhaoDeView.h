@@ -1,5 +1,5 @@
 //
-//  fff.h
+//  zuxiuhaoDeView.h
 //  学习github
 //
 //  Created by kys-6 on 2017/6/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface fff : UIView
+@interface zuxiuhaoDeView : UIView
 
 @end
